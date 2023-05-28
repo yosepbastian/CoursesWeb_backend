@@ -1,0 +1,11 @@
+{
+    "name": "yoep/test-midtrans",
+    "autoload": {
+        "psr-4": {
+            "Yoep\\TestMidtrans\\": "src/"
+        }
+    },
+    "require": {
+        "midtrans/midtrans-php": "^2.5"
+    }
+}
